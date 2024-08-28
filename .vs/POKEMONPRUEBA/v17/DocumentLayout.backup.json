@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|c:\\users\\sifue\\workspace\\pokemonprueba\\controllers\\pokemonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|solutionrelative:controllers\\pokemonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|c:\\users\\sifue\\workspace\\pokemonprueba\\migrations\\20240828212548_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|solutionrelative:migrations\\20240828212548_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|c:\\users\\sifue\\workspace\\pokemonprueba\\modelo\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|solutionrelative:modelo\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|c:\\users\\sifue\\workspace\\pokemonprueba\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|c:\\users\\sifue\\workspace\\pokemonprueba\\pokemonprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|solutionrelative:pokemonprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|c:\\users\\sifue\\workspace\\pokemonprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|c:\\users\\sifue\\workspace\\pokemonprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A5E4839-6178-4FEA-A722-B46BA054F3DB}|POKEMONPRUEBA.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonsController.cs",
+              "DocumentMoniker": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Controllers\\PokemonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PokemonsController.cs",
+              "ToolTip": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Controllers\\PokemonsController.cs",
+              "RelativeToolTip": "Controllers\\PokemonsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:26:41.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240828212548_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Migrations\\20240828212548_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240828212548_Initial.cs",
+              "ToolTip": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Migrations\\20240828212548_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240828212548_Initial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:25:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "POKEMONPRUEBA.csproj",
+              "DocumentMoniker": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\POKEMONPRUEBA.csproj",
+              "RelativeDocumentMoniker": "POKEMONPRUEBA.csproj",
+              "ToolTip": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\POKEMONPRUEBA.csproj",
+              "RelativeToolTip": "POKEMONPRUEBA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T21:23:29.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:17:13.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T21:16:32.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:15:24.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Modelo\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Modelo\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\sifue\\workspace\\POKEMONPRUEBA\\Modelo\\Pokemon.cs",
+              "RelativeToolTip": "Modelo\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:09:23.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
