@@ -17,6 +17,5 @@ namespace POKEMONPRUEBA.Modelo
         public int DefEs{ get; set; }
         public int Velo { get; set; }
 
-        public int Debilidad { get; set; }
     }
 }

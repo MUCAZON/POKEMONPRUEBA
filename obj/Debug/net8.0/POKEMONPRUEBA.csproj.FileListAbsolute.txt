@@ -502,3 +502,4 @@ C:\Users\sifue\workspace\POKEMONPRUEBA\obj\Debug\net8.0\refint\POKEMONPRUEBA.dll
 C:\Users\sifue\workspace\POKEMONPRUEBA\obj\Debug\net8.0\POKEMONPRUEBA.pdb
 C:\Users\sifue\workspace\POKEMONPRUEBA\obj\Debug\net8.0\POKEMONPRUEBA.genruntimeconfig.cache
 C:\Users\sifue\workspace\POKEMONPRUEBA\obj\Debug\net8.0\ref\POKEMONPRUEBA.dll
+C:\Users\sifue\workspace\POKEMONPRUEBA\obj\Debug\net8.0\POKEMONPRUEBA.sourcelink.json
